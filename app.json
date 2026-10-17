@@ -1,7 +1,13 @@
 {
   "expo": {
+    "owner": "doura1s-team",
     "name": "Duora",
     "slug": "duora",
+    "extra": {
+      "eas": {
+        "projectId": "b80cbce3-b9d5-44eb-ab78-1db78224b03c"
+      }
+    },
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "light",
