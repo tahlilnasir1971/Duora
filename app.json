@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Duora",
+    "slug": "duora",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.duora.app"
+    }
+  }
+}
